@@ -1,0 +1,10 @@
+th {color: white
+}
+
+th {background: rgb(0, 179, 0);
+
+}
+
+tr:nth-child(even) {
+	background: rgb(230, 238, 255);
+}
