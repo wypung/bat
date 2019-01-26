@@ -1,0 +1,81 @@
+body {
+	background-color: rgb(102, 102, 51)
+
+}
+
+h1 {
+	border-style: solid; 
+	background-color: grey;	
+}
+
+p {
+	border-style: solid;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	margin: 0px;
+	border: none;
+}
+
+.fourteen {
+	background-color: rgb(230, 240, 255);
+}
+
+.thirteen {
+	background-color: rgb(204, 224, 255);
+}
+
+.twelve {
+	background-color: rgb(179, 209, 255)
+}
+
+.eleven {
+	background-color: rgb(153, 194, 255)
+}
+
+.ten {
+	background-color: rgb(128, 179, 255)
+}
+
+.nine {
+	background-color: rgb(102, 163, 255)
+}
+
+.eight {
+	background-color: rgb(77, 148, 255)
+}
+
+
+.seven{
+	background-color: rgb(159, 255, 128)
+}
+
+.six{
+	background-color: rgb(255, 77, 160)
+}
+
+.five {
+	background-color: rgb(255, 102, 173)
+}
+
+.four {
+	background-color: rgb(255, 128, 187)
+}
+
+.three {
+	background-color: rgb(255, 153, 201)
+}
+
+.two {
+	background-color: rgb(255, 179, 214)
+}
+
+.one {
+	background-color: rgb(255, 204, 228)
+}
+
+.zero {
+	background-color: rgb(255, 230, 241)
+}
+
+
+
